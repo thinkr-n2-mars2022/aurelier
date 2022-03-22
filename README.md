@@ -4,6 +4,8 @@
 # aurelier
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/thinkr-n2-mars2022/aurelier/workflows/R-CMD-check/badge.svg)](https://github.com/thinkr-n2-mars2022/aurelier/actions)
 <!-- badges: end -->
 
 The goal of aurelier is to create a package in autonomy
